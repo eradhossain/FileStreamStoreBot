@@ -1,12 +1,15 @@
 WelcomeText = \
 """
-Hi **%(first_name)s**, send me a file or add me as an admin to any channel to instantly generate file links.
+Hi **%(first_name)s**
 
-Add me to your channel to instantly generate links for any downloadable media. Once received, I will automatically attach appropriate buttons to the post containing the URL. If you want me to ignore a given post, you can insert `#pass` in the post.
+Unlimited Movies & Web Series
+📱App🔗: https://eamoviesapp.blogspot.com/
+
+Join Channel : @EaMoviesOfficial
+Join Group : @EaMoviesGroup
 
 - /start to get this message.
 - /info to get user info.
-- /log to get bot logs. (admin only!)
 """
 
 UserInfoText = \
